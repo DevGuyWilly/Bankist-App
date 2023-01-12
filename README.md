@@ -12,7 +12,7 @@ A simple bank app with features of Login, Transfer, Loan and delete operations. 
 - Live Site URL: (https://devguywilly.github.io/Bankist-App/)
 
 
-users
+
 account 1
 username : js
 pin : 1111
