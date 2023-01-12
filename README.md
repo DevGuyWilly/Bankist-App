@@ -10,3 +10,21 @@ A simple bank app with features of Login, Transfer, Loan and delete operations. 
 ##  Links
 - Solution URL: [Code on Github](https://github.com/DevGuyWilly/Bankist-App)
 - Live Site URL: (https://devguywilly.github.io/Bankist-App/)
+
+
+users
+account 1
+username : js
+pin : 1111
+
+account 2
+username: jd
+pin: 2222
+
+account 3
+username: stw
+pin: 3333
+
+account 4
+username: ss
+pin : 4444
